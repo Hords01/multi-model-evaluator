@@ -13,3 +13,12 @@ The dataset used for this project can be found on Kaggle:
 [🔗 Chest X-ray Pneumonia, COVID-19, Tuberculosis Dataset](https://www.kaggle.com/datasets/jtiptj/chest-xray-pneumoniacovid19tuberculosis)  
 
 Ensure you download and structure the dataset correctly before training.
+
+## 📌 Citation / Attribution
+
+If you use this repository, code, or any part of it in your research, publication, or project, **please cite it or provide appropriate credit**:
+
+> [Emirkan Beyaz], "Multi-Model Evaluator", GitHub Repository, [https://github.com/Hords01/multi-model-evaluator], 2025.
+
+You may also add a link to this repository or mention the author in acknowledgments.
+
