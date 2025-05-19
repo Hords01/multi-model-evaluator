@@ -70,7 +70,7 @@ summary.csv                            # Final metric comparison across all mode
 ---
 
 ### 🧪 Evaluation Metrics
- All models are evaluated using:
+ -All models are evaluated using:
   -Accuracy
   -Precision
   -Recall
