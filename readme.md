@@ -70,13 +70,14 @@ summary.csv                            # Final metric comparison across all mode
 ---
 
 ### 🧪 Evaluation Metrics
- -All models are evaluated using:
-  -Accuracy
-  -Precision
-  -Recall
-  -F1 Score
-  -Confusion Matrix
- 
+
+All models are evaluated using:
+
+- **Accuracy**
+- **Precision**
+- **Recall**
+- **F1 Score**
+- **Confusion Matrix**
 ---
 
 
